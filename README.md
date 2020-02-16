@@ -12,7 +12,7 @@ Input:
 
 
 
-[alt text](https://github.com/shivekchhabra/Sketch-Maker/blob/master/shivek.jpg)
+![alt text](https://github.com/shivekchhabra/Sketch-Maker/blob/master/shivek.jpg)
 
 
 
@@ -24,4 +24,4 @@ Output:
 
 
 
-[alt text](https://github.com/shivekchhabra/Sketch-Maker/blob/master/Output.jpg)
+![alt text](https://github.com/shivekchhabra/Sketch-Maker/blob/master/Output.jpg)
