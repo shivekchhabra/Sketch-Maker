@@ -8,4 +8,20 @@ Clone and install requirements
 
 Then run "sketch_maker.py"
 
+Input:
 
+
+
+![alt text](https://github.com/shivekchhabra/Sketch-Maker/blob/master/shivek.jpg)
+
+
+
+
+
+Output:
+
+
+
+
+
+![alt text](https://github.com/shivekchhabra/Sketch-Maker/blob/master/Output.jpg)
