@@ -41,6 +41,7 @@ def gaus_blurring(invert):
     return blur
 
 
+# Just update "file" to your own pic
 if __name__ == '__main__':
     file = 'shivek.jpg'
     canvas = 'bg.jpg'
@@ -52,5 +53,6 @@ if __name__ == '__main__':
     invert = inverting(gray)
     blur = gaus_blurring(invert)
     final = blending(gray, blur, canvas)
+    cv2.imwrite('Output_{}.jpg'.format(file.split('.')[0]), final)
     cv2.imshow('img', final)
-    cv2.waitKey(0)
+    cv2.waitKey(0)  # Press any key to quit.
